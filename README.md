@@ -132,11 +132,11 @@ STATUS
 
 <img
 height="180em"
-src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&text_color=d00000&icon_color=ff0000"/>
+src="https://github-readme-stats.vercel.app/api?username=s4muelandrey&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&text_color=d00000&icon_color=ff0000"/>
 
 <img
 height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=000000&title_color=ff0000&text_color=d00000"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4muelandrey&layout=compact&hide_border=true&bg_color=000000&title_color=ff0000&text_color=d00000"/>
 
 </div>
 
