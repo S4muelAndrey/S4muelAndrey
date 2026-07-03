@@ -150,18 +150,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&
 - Build a recognizable visual identity.
 - Constantly improve development workflow.
 
----
-
-# REPOSITORIES
-
-| Project | Status |
-|----------|--------|
-| We Brawl | 🟥 Active |
-| Internal Tools | 🟨 Experimental |
-| Engine Tests | 🟦 Research |
-| Future Projects | ⬛ Classified |
-
----
 
 <div align="center">
 
